@@ -1,0 +1,5 @@
+/.env
+/00001_init.up.sql
+/docker-compose.yml
+/go.mod
+/go.sum
